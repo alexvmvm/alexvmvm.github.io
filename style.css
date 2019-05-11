@@ -110,15 +110,7 @@ a {
     background-color: #484848;
 }
 
-#bio {
-    display: none;
-}
-
 @media only screen and (max-width: 600px) {
-    /* #sidebar {
-        display: none;
-    } */
-
     .row {
         flex-direction: column;
     }
@@ -127,9 +119,5 @@ a {
 @media print {
     #sidebar {
         display: none;
-    }
-
-    #bio {
-        display: inline-block;
     }
 }
