@@ -115,8 +115,12 @@ a {
 }
 
 @media only screen and (max-width: 600px) {
-    #sidebar {
+    /* #sidebar {
         display: none;
+    } */
+
+    .row {
+        flex-direction: column;
     }
 }
 
