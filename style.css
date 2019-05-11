@@ -55,12 +55,44 @@ a {
     padding: 20px;
 }
 
-.w-25 {
-    flex: 25%;
+.flex-10 {
+    flex: 10%;
 }
 
-.w-75 {
-    flex:75%;
+.flex-20 {
+    flex: 20%;
+}
+
+.flex-30 {
+    flex: 30%;
+}
+
+.flex-40 {
+    flex: 40%;
+}
+
+.flex-50 {
+    flex: 50%;
+}
+
+.flex-60 {
+    flex: 60%;
+}
+
+.flex-70 {
+    flex: 70%;
+}
+
+.flex-80 {
+    flex: 10%;
+}
+
+.flex-90 {
+    flex: 10%;
+}
+
+.flex-100 {
+    flex: 10%;
 }
 
 .ul-center {
